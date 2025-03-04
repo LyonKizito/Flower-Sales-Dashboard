@@ -1,5 +1,7 @@
 # 🌸 Flowers Sales Dashboard 🌸  
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## 📌 Overview  
 The **Winflora Performance Analysis Dashboard** is a **static Excel-based report** designed to analyze and visualize **flower sales performance**.  
 It provides insights into key sales metrics on a **weekly, monthly, and annual** basis, helping businesses track performance, identify trends, and make **data-driven decisions**.  
